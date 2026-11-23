@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # CSE103 Lab — LAB 3: GitHub Collaboration & API Interaction
 
 ![Last Commit](https://img.shields.io/github/last-commit/aditijindal020-tech/cse103-lab-LAB3)
